@@ -1,0 +1,9 @@
+{
+  "facebook": {
+    "login": "my@email.com",
+    "password": "coolPassword"
+  },
+  "telegram": {
+    "token": "123:AAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  }
+}

@@ -19,6 +19,9 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-react": "7.1.0",
     "eslint-plugin-standard": "^3.0.1",
-    "phantomjs-prebuilt": "^2.1.15"
+    "fs-extra": "^4.0.1",
+    "node-telegram-bot-api": "^0.28.0",
+    "phantom": "^4.0.5",
+    "uuid": "^3.1.0"
   }
 }
